@@ -8,3 +8,8 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
 ![alt text](<assets/screenshots/01-Analog Clock.png>)
 
 ---
+
+## 02. Calc
+"Calculadora"
+
+![alt text](<assets/screenshots/02-Calc.png>)
