@@ -4,6 +4,7 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
 
 ## 01. Analog Clock
 "Relógio Analogico"
+- Tecnologias utilizadas: HTML, CSS, JavaScript
 
 ![alt text](<assets/screenshots/01-Analog Clock.png>)
 
@@ -11,5 +12,6 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
 
 ## 02. Calc
 "Calculadora"
+- Tecnologias utilizadas: HTML, CSS, JavaScript
 
 ![alt text](<assets/screenshots/02-Calc.png>)
