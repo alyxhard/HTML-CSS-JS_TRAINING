@@ -24,3 +24,11 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
     - Consumindo API do site https://openweathermap.org/
 
 ![alt text](<assets/screenshots/03-WeatherForecast.png>)
+
+---
+
+## 04. Footer Responsivo
+"Exercicios de criação de um footer responsivo, utilizando ```@media screen``` "
+- Tecnologias utilizadas: HTML, CSS, JavaScript
+
+![alt text](<assets/screenshots/04-footerResponsivo.png>)
