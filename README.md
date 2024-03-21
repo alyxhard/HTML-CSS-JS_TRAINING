@@ -10,7 +10,7 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
 
 ---
 
-## 04. Calc
+## 02. Calc
 - ## Tecnologias utilizadas: HTML, CSS, JavaScript
 - ## Exercicios de criação de uma calculadora, praticando inplementação javascript, css e estruturas HTML "
 
@@ -18,7 +18,7 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
 
 ---
 
-## 04. Weather Forecast
+## 03. Weather Forecast
 - ## Tecnologias utilizadas: HTML, CSS, JavaScript
 - ## Exercicios de criação de um Widget de previsão do tempo consumindo API do site https://openweathermap.org/
 
@@ -34,7 +34,7 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
 
 ---
 
-## 04. Contruindo Relogio Digital
+## 05. Contruindo Relogio Digital
 - ## Tecnologias utilizadas: HTML, CSS, JavaScript
 - ## Exercicios de criação de um relógio digital, praticando implementação de logica javascript, utilizando recursos como:
     - utilização de logica para verificar se a string tem apenas 1 numero com ituido de inserir um 0 no prefixo dela.
@@ -45,3 +45,12 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
         ```
 
 ![alt text](<assets/screenshots/05-Contruindo_Relogio_Digital.png>)
+
+---
+
+## 06. Contador
+- ## Tecnologias utilizadas: HTML, CSS, JavaScript
+- ## Exercicios de criação de um contador digital utilizando métodos como:
+    - ``` getElementById ``` para pegar um elemento no html e, ``` addEventListener ``` para adicionar 1 valor ao contador utilizando o evento de click do mouse.
+
+![alt text](<assets/screenshots/06-Contador.png>)
