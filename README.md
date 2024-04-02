@@ -54,3 +54,10 @@ Este repositório é dedicado ao treinamento da utilização de HTML, CSS e Java
     - ``` getElementById ``` para pegar um elemento no html e, ``` addEventListener ``` para adicionar 1 valor ao contador utilizando o evento de click do mouse.
 
 ![alt text](<assets/screenshots/06-Contador.png>)
+
+---
+
+## 07. Dark/Light Login
+- ## Tecnologias utilizadas: HTML, CSS, JavaScript
+- ## Exercicios de criação de uma tela de login, explorando a utilização de modo dark e modo light:
+![alt text](<assets/screenshots/07-light-dark.png>)
